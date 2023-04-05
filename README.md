@@ -37,7 +37,7 @@ You Can Change The Profile Number By Going To The Line
 63     db_path = os.path.join(os.environ["USERPROFILE"], "AppData", "Local",                                                                               
 64                        "Google", "Chrome", "User Data", ["Profile 1"], "Login Data")                                                                   
                                                                 ^
-                                                                Edit This And Also Dont Put The Brackets It's Just For Reference
+                                                            Edit This And Also Dont Put The Brackets It's Just For Reference
 
 
 # Thank You
