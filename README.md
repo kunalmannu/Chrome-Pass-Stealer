@@ -32,11 +32,12 @@ And Then I Noticed A Problem That I Was Not Able To Get The Data
 So I Searched The Problem And Found Out That The Reason Was That I Had
 Multiple Profiles And Hence It Was Not Working. So This Repo 
 Is Basically For The People Who Have Multiple Profiles In Chrome.
-You Can Change The Profile Number By Going To The Line
-![I]()
+You Can Change The Profile Number By Going To The Line 64 To 64 
+As Given Bellow
+![I](https://raw.githubusercontent.com/kunalmannu/Chrome-Pass-Stealer/main/img/img2.jpg)
 
 # Image
 
-![I](https://raw.githubusercontent.com/kunalmannu/Chrome-Pass-Stealer/main/Screenshot%202023-04-05%20143921.jpg)
+![I](https://raw.githubusercontent.com/kunalmannu/Chrome-Pass-Stealer/main/img/img.jpg)
 
 # Thank You
